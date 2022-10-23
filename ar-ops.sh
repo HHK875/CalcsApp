@@ -14,5 +14,5 @@ echo "----------------Summary of Arithematic Operattions:----------------"
 echo "                Sum of $num1 and $num2 is: $sum                    "     
 echo "                Difference of $num1 and $num2 is: $sub             "
 echo "                Product of $num1 and $num2 is: $mul                "
-echo "----------------  <END>  ------------------------------------------"
+echo "--------------------------  <END>  ------------------------"
 
