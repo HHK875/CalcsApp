@@ -7,3 +7,6 @@ read num2
 sum=0
 sum=$(( $sum + $num1 + $num2 ))
 echo "Sum of $num1 and $num2 is: $sum"
+sub=0
+sub=$(( $sub + $num1 - $num2 ))
+echo "Difference of $num1 and $num2 is: $sub"
